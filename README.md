@@ -16,4 +16,4 @@ This is just for a little context on what the Band Together app looks like. If t
 other user has liked you, clicking on the green thumbs up will instantly create a chatroom.
 
 
-![Node.js](https://i.ibb.co/3zSFPqN/Screen-Shot-2019-02-06-at-4-07-26-PM.png)
+![Node.js](https://i.ibb.co/5FsjJy8/Screen-Shot-2019-02-06-at-4-07-26-PM.png)
