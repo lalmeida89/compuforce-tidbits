@@ -2,7 +2,7 @@
 Node.js
 
 This is a snippet from my Band Together app. The app allowed users to look through
-profiles and click like or dislike if they liked what they say, kind of like Tinder
+profiles and click like or dislike if they liked what they saw, kind of like Tinder
 for musicians looking to play together. This endpoint checks if the user we click 'like'
 on has also liked us. When that happens, a chat room is created for the two users using
 socket.io. We also save the 'like' or 'dislike' so that we know that this profile

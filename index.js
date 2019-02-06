@@ -1,11 +1,12 @@
 /*
 Javascript / React.JS
 
-This snippet is from my Fantasy Football mock draft app, or Build-a-champion Workshop as
-I have for some reason decided to name it that. I'm proud of this bit because I felt as If I was
+This snippet is from my Fantasy Football mock draft app, or Build-a-Champion Workshop as
+I have for some reason decided to call it. I'm proud of this bit because I felt as If I was
 reaching the next level as a programmer; I started using more .map() and .forEach() instead
-of constantly using for loops. This bit is the final page of the app, which shows every player on every
-team in the draft. The teams array is a multi dimensional array that contains each team (minimum of 4
+of constantly using for loops.
+This bit is the final page of the app, which shows every player on every team in the draft.
+The teams array is a multi dimensional array that contains each team (minimum of 4
 and a maximum of 30) and then each one of those contains a number of players (minimum of 1, maximum of 200).
 The first function, mappedTeam(), maps through each individual team returning the players. The ShowAllTeams()
 function then maps and returns the teams themselves, with that team being passed into the first function
