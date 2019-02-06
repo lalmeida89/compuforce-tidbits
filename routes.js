@@ -8,6 +8,7 @@ on has also liked us. When that happens, a chat room is created for the two user
 socket.io. We also save the 'like' or 'dislike' so that we know that this profile
 has already been voted on so that it doesn't show again for the same user.
 */
+
 app.post('/dashboard', isLoggedIn, function(req, res) {
   //check for likes from another user
   User.findOne({_id:req.body.id}).exec().then(them => {

@@ -1,4 +1,6 @@
-/* Javascript / React.JS
+/*
+Javascript / React.JS
+
 This snippet is from my Fantasy Football mock draft app, or Build-a-champion Workshop as
 I have for some reason decided to name it that. I'm proud of this bit because I felt as If I was
 reaching the next level as a programmer; I started using more .map() and .forEach() instead
